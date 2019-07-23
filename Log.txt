@@ -1,0 +1,48 @@
+Exception
+DivideByZeroException: Attempted to divide by zero.
+ExceptionGenerator.Update () (at Assets/ExceptionGenerator.cs:13)
+
+Exception
+MissingComponentException: Missing component
+ExceptionGenerator.Update () (at Assets/ExceptionGenerator.cs:17)
+
+Exception
+DivideByZeroException: Attempted to divide by zero.
+ExceptionGenerator.Update () (at Assets/ExceptionGenerator.cs:13)
+
+Exception
+MissingComponentException: Missing component
+ExceptionGenerator.Update () (at Assets/ExceptionGenerator.cs:17)
+
+Exception
+DivideByZeroException: Attempted to divide by zero.
+ExceptionGenerator.Update () (at Assets/ExceptionGenerator.cs:13)
+
+Exception
+DivideByZeroException: Attempted to divide by zero.
+ExceptionGenerator.Update () (at Assets/ExceptionGenerator.cs:13)
+
+Exception
+DivideByZeroException: Attempted to divide by zero.
+ExceptionGenerator.Update () (at Assets/ExceptionGenerator.cs:13)
+
+Exception
+DivideByZeroException: Attempted to divide by zero.
+ExceptionGenerator.Update () (at Assets/ExceptionGenerator.cs:13)
+
+Exception
+DivideByZeroException: Attempted to divide by zero.
+ExceptionGenerator.Update () (at Assets/ExceptionGenerator.cs:13)
+
+Exception
+DivideByZeroException: Attempted to divide by zero.
+ExceptionGenerator.Update () (at Assets/ExceptionGenerator.cs:13)
+
+Exception
+DivideByZeroException: Attempted to divide by zero.
+ExceptionGenerator.Update () (at Assets/ExceptionGenerator.cs:13)
+
+Exception
+DivideByZeroException: Attempted to divide by zero.
+ExceptionGenerator.Update () (at Assets/ExceptionGenerator.cs:13)
+
